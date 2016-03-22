@@ -1,0 +1,30 @@
+{
+  "name": "soft-set",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Set an observable, only when the value is different",
+  "license": "MIT",
+  "repository": "bendrucker/soft-set",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observable",
+    "observ",
+    "soft",
+    "set"
+  ],
+  "devDependencies": {
+    "observ": "~0.2.0",
+    "standard": "^6.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
