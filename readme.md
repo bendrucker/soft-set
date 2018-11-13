@@ -1,4 +1,4 @@
-# soft-set [![Build Status](https://travis-ci.org/bendrucker/soft-set.svg?branch=master)](https://travis-ci.org/bendrucker/soft-set)
+# soft-set [![Build Status](https://travis-ci.org/bendrucker/soft-set.svg?branch=master)](https://travis-ci.org/bendrucker/soft-set) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/soft-set.svg)](https://greenkeeper.io/)
 
 > Set an observable, only when the value is different
 
